@@ -1,8 +1,4 @@
-<div align="center">
-  
-# Prazer, me chamo Léo :handshake:
-
-</div>
+# Prazer, me chamo Léo 🤝
 
 <div>
   <ul>
@@ -11,15 +7,17 @@
     <li>Uso o vscode <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"> como principal editor de códigos</li>
     <li>Pretendo me especializar em Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"></li>
     <li>Usuário de Windows 10 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20px">, Android <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="20px"> e Opera GX <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="20px"></li>
-    <li>Ainda tô aprendendo como mexe no GitHub, paciência</li>
+    <li>Morador do Estado de São Paulo 🇧🇷</li>
+    <li>Ainda tô aprendendo a mexer no GitHub, paciência</li>
   </ul>
 </div>
 
 <hr>
 
 <div>
-  <img height="215px" src="https://github-readme-stats.vercel.app/api?username=Leoozinkk&show_icons=true&theme=gruvbox">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoozinkk&layout=donut&langs_count=6&theme=gruvbox">
+  <img height="200px" src="https://github-readme-stats-leoozinkk.vercel.app/api?username=Leoozinkk&show_icons=true&theme=gruvbox">
+  <img width="400px" src="https://github-readme-stats-leoozinkk.vercel.app/api/top-langs/?username=Leoozinkk&layout=donut&langs_count=6&theme=gruvbox">
+  <img >
 </div>
 
  <hr>
@@ -28,7 +26,7 @@
 
  ## Atualmente estou estudando:
 
-<div>
+ <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"> &nbsp;
@@ -37,18 +35,27 @@
  </div>
  
  ## Também sei um pouco sobre:
- 
  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px">         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"> &nbsp;
+  <!--Ícone Untiy no modo claro e escuro-->
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/792169297258217485/1107744935685410876/unity_1.png">
+    <img src="https://cdn.discordapp.com/attachments/792169297258217485/1107744935429554248/unity_2.png">
+  </picture>
  </div>
  
  <hr>
  
- # Redes sociais
+ # Minhas redes sociais: (só clicar que já vai)
  
-<a href="https://twitter.com/LeoozinBrabo"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648061896937594/free-twitter-241-721979.png" width="40px"></a> &nbsp;
-<a href="https://www.instagram.com/leosaad6/"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107647926622224484/free-instagram-1868978-1583142.png" width="40px"></a> &nbsp;
-<a href="https://www.reddit.com/user/leo_saad"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648313878126654/free-reddit-2752088-2284905.png" width="40px"></a> &nbsp;
-<a href="https://www.duolingo.com/profile/Leozinkk"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648936803569674/86230c9ad10d9f08b785.png" width="40px"></a> &nbsp;
-<a href="https://steamcommunity.com/profiles/76561199055693138"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107649062213263370/free-steam-45-283515.png" width="40px"></a>
+ <div>
+  <a href="https://twitter.com/LeoozinBrabo"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648061896937594/free-twitter-241-721979.png" width="50px"></a> &nbsp;
+  <a href="https://www.instagram.com/leosaad6/"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107647926622224484/free-instagram-1868978-1583142.png" width="50px"></a> &nbsp;
+  <a href="https://www.reddit.com/user/leo_saad"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648313878126654/free-reddit-2752088-2284905.png" width="50px"></a> &nbsp;
+  <a href="https://www.duolingo.com/profile/Leozinkk"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648936803569674/86230c9ad10d9f08b785.png" width="50px"></a> &nbsp;
+  <a href="https://open.spotify.com/user/31sg76hlquezvji6yelns46inorq"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107673600036704276/free-spotify-11-432546.png" width="50px"></a> &nbsp;
+  <!--Ícone Steam no modo claro-->
+  <a href="https://steamcommunity.com/profiles/76561199055693138#gh-light-mode-only"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107649062213263370/free-steam-45-283515.png#gh-light-mode-only" width="50px"></a>
+  <!--Ícone Steam no modo escuro-->
+  <a href="https://steamcommunity.com/profiles/76561199055693138#gh-dark-mode-only"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107727972678520863/free-steam-2752064-2284881.png#gh-dark-mode-only" width="50px"></a>
+ </div>
