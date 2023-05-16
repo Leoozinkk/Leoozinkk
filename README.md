@@ -17,7 +17,6 @@
 <div>
   <img height="200px" src="https://github-readme-stats-leoozinkk.vercel.app/api?username=Leoozinkk&show_icons=true&theme=gruvbox">
   <img width="400px" src="https://github-readme-stats-leoozinkk.vercel.app/api/top-langs/?username=Leoozinkk&layout=donut&langs_count=6&theme=gruvbox">
-  <img >
 </div>
 
  <hr>
