@@ -1,5 +1,4 @@
 # Prazer, me chamo Léo 🤝
-
 <div>
   <ul>
     <li>Estudando sobre desenvolvimento Web</li>
@@ -14,9 +13,10 @@
 
 <hr>
 
+## Status do GitHub
 <div>
-  <img height="200px" src="https://github-readme-stats-leoozinkk.vercel.app/api?username=Leoozinkk&show_icons=true&theme=gruvbox">
-  <img width="400px" src="https://github-readme-stats-leoozinkk.vercel.app/api/top-langs/?username=Leoozinkk&layout=donut&langs_count=6&theme=gruvbox">
+  <img height="190px" src="https://github-readme-stats-leoozinkk.vercel.app/api?username=Leoozinkk&show_icons=true&theme=gruvbox">
+  <img width="350px" src="https://github-readme-stats-leoozinkk.vercel.app/api/top-langs/?username=Leoozinkk&layout=donut&langs_count=6&theme=gruvbox">
 </div>
 
  <hr>
@@ -24,7 +24,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
  ## Atualmente estou estudando:
-
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"> &nbsp;
@@ -45,8 +44,7 @@
  
  <hr>
  
- # Minhas redes sociais: (só clicar que já vai)
- 
+ ## Minhas redes sociais: (só clicar que já vai)
  <div>
   <a href="https://twitter.com/LeoozinBrabo"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648061896937594/free-twitter-241-721979.png" width="50px"></a> &nbsp;
   <a href="https://www.instagram.com/leosaad6/"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107647926622224484/free-instagram-1868978-1583142.png" width="50px"></a> &nbsp;
@@ -58,3 +56,6 @@
   <!--Ícone Steam no modo escuro-->
   <a href="https://steamcommunity.com/profiles/76561199055693138#gh-dark-mode-only"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107727972678520863/free-steam-2752064-2284881.png#gh-dark-mode-only" width="50px"></a>
  </div>
+ 
+ ## Escutando agora no Spotify:
+ ![Spotify](https://spotify-now-playing-leoozinkk.vercel.app/api/spotify)
