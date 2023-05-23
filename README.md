@@ -6,7 +6,7 @@
     <li>Uso o vscode <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"> como principal editor de códigos</li>
     <li>Pretendo me especializar em Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"></li>
     <li>Usuário de Windows 10 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20px">, Android <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="20px"> e Opera GX <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="20px"></li>
-    <li>Morador do Estado de São Paulo 🇧🇷</li>
+    <li>Morador do Estado de São Paulo</li>
     <li>Ainda tô aprendendo a mexer no GitHub, paciência</li>
   </ul>
 </div>
