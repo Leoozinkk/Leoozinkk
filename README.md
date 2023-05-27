@@ -12,14 +12,6 @@
 </div>
 
 <hr>
-
-## Status do GitHub
-<div>
-  <img height="190px" src="https://github-readme-stats-leoozinkk.vercel.app/api?username=Leoozinkk&show_icons=true&theme=gruvbox">
-  <img width="350px" src="https://github-readme-stats-leoozinkk.vercel.app/api/top-langs/?username=Leoozinkk&layout=donut&langs_count=6&theme=gruvbox">
-</div>
-
- <hr>
  
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
