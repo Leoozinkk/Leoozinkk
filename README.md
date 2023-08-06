@@ -36,7 +36,7 @@
  
  <hr>
  
- ## Minhas redes sociais: (só clicar que já vai)
+ ## Minhas redes sociais: (só clicar)
  <div>
   <a href="https://twitter.com/LeoozinBrabo"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648061896937594/free-twitter-241-721979.png" width="50px"></a> &nbsp;
   <a href="https://www.instagram.com/leosaad6/"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107647926622224484/free-instagram-1868978-1583142.png" width="50px"></a> &nbsp;
