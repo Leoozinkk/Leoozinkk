@@ -1,7 +1,7 @@
 # Prazer, me chamo Léo 🤝
 <div>
   <ul>
-    <li>Estudando sobre desenvolvimento Web</li>
+    <li>Estudando sobre desenvolvimento Web (front e back-end)</li>
     <li>Um pouco de experiência com desenvolvimento de jogos</li>
     <li>Uso o vscode <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"> como principal editor de códigos</li>
     <li>Pretendo me especializar em Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"></li>
