@@ -15,19 +15,19 @@
  
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
- ## Atualmente estou estudando:
+ ## Possuo conhecimento em:
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px"> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px">     
- </div>
- 
- ## Também sei um pouco sobre:
- <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"> &nbsp;
   <!--Ícone Untiy no modo claro e escuro-->
+  <picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/792169297258217485/1107744935685410876/unity_1.png">
+   <img src="https://cdn.discordapp.com/attachments/792169297258217485/1107744935429554248/unity_2.png">
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/792169297258217485/1107744935685410876/unity_1.png">
     <img src="https://cdn.discordapp.com/attachments/792169297258217485/1107744935429554248/unity_2.png">
@@ -36,7 +36,7 @@
  
  <hr>
  
- ## Minhas redes sociais: (só clicar)
+ ## Minhas redes sociais: (cilcável)
  <div>
   <a href="https://twitter.com/LeoozinBrabo"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107648061896937594/free-twitter-241-721979.png" width="50px"></a> &nbsp;
   <a href="https://www.instagram.com/leosaad6/"><img src="https://cdn.discordapp.com/attachments/792169297258217485/1107647926622224484/free-instagram-1868978-1583142.png" width="50px"></a> &nbsp;
