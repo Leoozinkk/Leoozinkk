@@ -1,9 +1,8 @@
 # Prazer, me chamo Léo 🤝
 <div>
   <ul>
-    <li>Estudando sobre desenvolvimento Web (front e back-end)</li>
+    <li>Estudando sobre desenvolvimento Web</li>
     <li>Um pouco de experiência com desenvolvimento de jogos</li>
-    <li>Utilizo VScode <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20px"></li>
     <li>Pretendo me especializar em Javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"></li>
     <li>Usuário de Windows 11 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20px">, Android <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="20px"> e Opera GX <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="20px"></li>
     <li>Morador do Estado de São Paulo</li>
@@ -27,10 +26,6 @@
   <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/792169297258217485/1107744935685410876/unity_1.png">
    <img src="https://cdn.discordapp.com/attachments/792169297258217485/1107744935429554248/unity_2.png">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/792169297258217485/1107744935685410876/unity_1.png">
-    <img src="https://cdn.discordapp.com/attachments/792169297258217485/1107744935429554248/unity_2.png">
   </picture>
  </div>
  
