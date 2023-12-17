@@ -14,7 +14,7 @@
  
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
- ## Possuo conhecimento em:
+ ## Estudando/Praticando:
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"> &nbsp;
@@ -22,11 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"> &nbsp;
-  <!--Ícone Untiy no modo claro e escuro-->
-  <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/792169297258217485/1107744935685410876/unity_1.png">
-   <img src="https://cdn.discordapp.com/attachments/792169297258217485/1107744935429554248/unity_2.png">
-  </picture>
  </div>
  
  <hr>
